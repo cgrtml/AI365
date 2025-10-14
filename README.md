@@ -16,6 +16,14 @@ Summarizes text-based PDFs using either OpenAI or TextRank, with both CLI and AP
 
 ---
 
+
+## 🐳 Docker (Run)
+
+```bash
+docker run --rm -p 8000:8000 cagritemel/ai365-pdf:latest
+# Open http://127.0.0.1:8000/docs
+
+
 ## 🙌 Contributing
 
 Want to add a project? Follow these steps:
