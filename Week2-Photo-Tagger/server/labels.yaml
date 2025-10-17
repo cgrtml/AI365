@@ -1,0 +1,45 @@
+room_types:
+  - kitchen
+  - bathroom
+  - bedroom
+  - living room
+  - dining room
+  - home office
+  - balcony
+  - patio
+  - backyard
+  - garage
+  - laundry room
+  - hallway
+  - entryway
+  - walk-in closet
+  - basement
+  - attic
+  - rooftop terrace
+
+features:
+  - hardwood floors
+  - stainless steel appliances
+  - granite countertops
+  - quartz countertops
+  - kitchen island
+  - double sink
+  - bathtub
+  - walk-in shower
+  - tile flooring
+  - fireplace
+  - floor-to-ceiling windows
+  - natural light
+  - recessed lighting
+  - vaulted ceiling
+  - open-concept layout
+  - built-in shelves
+  - smart thermostat
+  - central air conditioning
+  - in-unit washer dryer
+  - panoramic view
+  - city view
+  - garden view
+  - water view
+  - backyard deck
+  - fenced yard
