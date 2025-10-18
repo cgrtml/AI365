@@ -44,7 +44,7 @@ Want to add a project? Follow these steps:
 ## 🧭 Roadmap
 
 - [x] Week 1: LLM PDF Summarizer  
-- [ ] Week 2: Web-based Image Captioner  
+- [ ] Week 2: Week2-Photo-Tagger
 - [ ] Week 3: LangChain + RAG Project  
 - [ ] Week 4: ROS + LLM Robotics Demo 🤖
 
