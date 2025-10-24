@@ -1,0 +1,8 @@
+transformers>=4.41.0
+torch>=2.2.0
+pillow
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+openai>=1.40.0
